@@ -1,2 +1,2 @@
-<a href="https://dd-hacktoberfest22.herokuapp.com/">HAPPY HACKTOBERFEST 2022</a>
+<a href="https://hacktoberfest-three.vercel.app/">HAPPY HACKTOBERFEST 2022</a>
  
